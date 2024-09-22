@@ -1,0 +1,2 @@
+Prefix plugins/ToPASeq/example/
+Plugin ToPASeq inputfile airway.rds outputfile weights.csv
